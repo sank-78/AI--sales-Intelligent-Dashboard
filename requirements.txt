@@ -1,0 +1,16 @@
+
+Core Data Processing & Streaming API
+pandas>=2.0.0
+ucimlrepo>=0.0.7
+requests>=2.31.0
+
+# Real-time Message Broker & Async Event Loop (Optional for advanced streaming)
+kafka-python>=2.0.2
+asyncio>=3.4.3
+
+# Data Science & Analytics (If deploying calculation engine models)
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Environment Management
+python-dotenv>=1.0.0
