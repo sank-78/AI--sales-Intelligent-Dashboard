@@ -54,6 +54,11 @@ Fits structural mathematical models (e.g., **Linear Regression**) to map recent 
 ```
 
 ---
+## 📊 Dataset Information
+The dataset used in this project is the **Online Retail Dataset** sourced directly from the official **UCI Machine Learning Repository**.
+* **Dataset ID:** 352
+* **Official Link:** [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
+
 
 ## ⚙️ Quick Installation & Production Setup
 
